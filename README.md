@@ -1,5 +1,7 @@
 ### Hi there friends 👋
 
+- 👨‍💻 I’m currently learning Flutter and Rust
+
 <!--
 **AinPhoenix/AinPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
